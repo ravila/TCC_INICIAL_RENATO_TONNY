@@ -33,7 +33,7 @@ public class HelloTesteActivity extends Activity implements LocationListener, Se
 	private TextView tv6;*/
 	private TextView tv7;
 	private TextView tv8;
-	/*private int cont = 0;*/
+	private int cont = 0;
 
 	FileWriter fileOutput;
 	DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy hh:mm:ss.SSS");
